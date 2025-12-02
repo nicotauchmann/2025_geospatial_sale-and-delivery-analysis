@@ -10,6 +10,7 @@
 - Key Features: CustomerID, SellerID, Quantity, UnitPrice, OrderDate, Expected Delivery, State
 ## Example Visualisations
 <img width="1355" height="759" alt="Screenshot 2025-12-01 132643" src="https://github.com/user-attachments/assets/9e789f35-81fd-4f8f-a6a3-a3e3bdfa6e07" />
+
 ## How to Use This Project
 - import the database files into your MySQL Workbench
 - run queries similar to the ones in the example folder
